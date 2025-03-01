@@ -1,0 +1,417 @@
+@media only screen and (max-width:1120px){
+.centerwrap{width:994px;}
+
+/* Cam */
+.cam_pics{padding-bottom:5px;}
+.cam_pic{width:32%; margin-right:2%; margin-bottom:2%;}
+.allmodels{margin:0 25px 50px;}
+.vna_members{margin:-72px auto 0;}
+.warning_fmodel{margin-left:20px; margin-right:22px;}
+
+/* Join */
+.join{padding:16px 16px 0;}
+.plan{width:129px; margin-right:6px;}
+.plan h3{font-size:34px;}
+.most_popular, .best_deal{background-size:144px;}
+.join_model{width:50%;}
+.join_content{width:49%;}
+.join_content ul li{padding:9px 0 8px 40px; background-position:10px 7px;}
+
+/* Bio */
+.bio_model{right:-240px;}
+
+/* Photos */
+.modelpic{width:24.25%; margin-right:1%; margin-bottom:1%;}
+.pagination li a img{height:auto;}
+.download_btn a{font-size:26px; line-height:50px;}
+
+/* Members */
+.member_banner{background-position:20% top;}
+.discuss{width:24.5%; margin-left:0%; margin-right:0px;}
+.posts{width:47%; margin-right:2%}
+.member_right{width:24.5%; margin-right:0%;}
+.timezone_area{width:100%;}
+.catPhoto{padding:0 10px;}
+.catPhoto img{max-width:100%;}
+
+
+
+/* Videos */
+.video_pic{width:32%; margin-right:2%;}
+.video_details p{width:700px; letter-spacing:normal}
+
+/* Updates */
+.update_banner_model{left:150px;}
+.banner_update{background-size:1420px; background-position:59% 0px;}
+.updatebox{width:67%; margin-right:0%;}
+
+
+
+/* tour */
+.nextshow{width:500px;}
+.tour_banner{background-size:1440px;}
+.fav_videos{padding:22px 20px 38px;}
+.fav_video{width:32%; margin-right:2%; margin-bottom:2%}
+.fav_video.last{width:32%;}
+.meetme_btn, .fav_photos{width:650px;}
+.fav_photo{width:32.66%; margin-right:1%; margin-bottom:1%;}
+.mytweet_block{width:446px; padding:20px 30px 42px;}
+.member_enjoy{padding:20px 30px; width:100%;}
+.member_enjoy ul li{font-size:16px;}
+
+/* Index */
+.graybox{width:520px;}
+.warning_logo{padding-left:30px; padding-right:30px;}
+hr{margin:0 35px;}
+.warning_modelbg{left:535px;}
+
+nav li{font-size:16px; margin-right:5px;}
+}
+
+@media only screen and (max-width:1023px){
+.centerwrap{width:748px;}
+
+/* Cam */
+.banner_cam{background-size:1140px;}
+nav li{margin-right:5px; font-size:13px;}
+nav li a{padding:0 5px;}
+.clickme a{font-size:13px;}
+.logo{width:170px;}
+.cam{padding:15px 12px 0;}
+.titlebox h2{font-size:20px;}
+.cam_banner img{padding-bottom:16px;}
+.meetme a{font-size:52px; line-height:105px;}
+.allmodels{margin:0 25px 30px;}
+.model_details{width:33%;}
+.vna_members{width:auto; margin-left:10px; margin-top:-54px;}
+.row_one .vna_member{margin-right:8px;}
+.row_two .vna_member{margin-right:7px;}
+.warning_fmodel{margin-right:0px; padding-top:30px;}
+.mail_listarea{width:550px;}
+.email_subscribebox{margin-bottom:10px;}
+.email_subscribe{padding-bottom:10px;}
+.subscribe{display:inline-block; padding-left:30px;}
+.footer{text-align:center;}
+.footer p.footer_links{float:none; line-height:24px;}
+.footer p.copyright{float:none; line-height:24px;}
+.vna_logo{float:none; padding-left:0px;}
+.vna_logo img{display:inline-block;}
+.vna_network_pic{padding-top:20px;}
+
+/* Join */
+.join{padding:15px 12px 0;}
+.banner_join{background-size:970px;}
+.membership_plans{text-align:center;}
+.plan{float:none; display:inline-block; margin-bottom:8px;}
+.join_content h3{font-size:22px; line-height:26px; padding-top:12px;}
+.exclusive_content{padding:16px 0 22px;}
+
+/* Bio */
+.banner_bio{background-size:1000px;}
+.bio_model{display:none;}
+.bio{width:auto;}
+.bio .clicktome{padding-right:10px;}
+.bio_content{padding-right:80px; width:auto;}
+.funFacts{padding:20px 140px 20px 30px;}
+.funFacts p{font-size:14px; width: 500px;}
+.bio_model_pics{top:auto; bottom:-50px; right:-155px; width:360px;}
+.funFacts p span.space{ padding-right:0px;}
+.awards{left:240px; top:436px;}
+
+/* Photos */
+.banner_photo{background-size:1180px;}
+.modelpic h3{font-size:18px; min-height:76px;}
+.download_btn a{background-size:26px; background-position:96% center;padding:5px 8px 5px 10px; line-height:28px; font-size:18px; letter-spacing:-0.02em;}
+.pagination{padding-top:35px; padding-bottom:30px;}
+
+/* Members */
+nav li a i{margin-left:5px;}
+.member_banner{height:auto;}
+.memberlogo{padding-top:30px;}
+.member_welcome p{font-size:15px;}
+.discuss img, .posts img, .timezone_area img{max-width:100%;}
+.discuss{width:49%; margin-left:0%;}
+.posts{width:100%; margin-right:0%; margin-left:0%; margin-top:2%; min-height:inherit}
+.posts iframe{height:1000px;}
+.member_right{width:49%; margin-right:0%;}
+
+/* Videos */
+.banner_video{background-size:1060px;}
+.videoarea{margin-bottom:14px; padding-bottom:20px;}
+.video_details p{width:auto; float:none;}
+.video_download{float:none; margin-top:18px;}
+.videoarea h3{font-size:24px;}
+.date{font-size:18px; padding-top:5px;}
+.updated_videos{margin:0 5px;}
+
+/* Updates */
+.update_banner_model{left:140px; width:222px;}
+.banner_update{background-size:1140px; background-position:64.5% 0;}
+
+/* tour */
+.nextshow{width:292px;}
+.nextshow h3{font-size:42px;}
+.counter{margin-right:-40px;}
+.tour_banner{background-size:1084px;}
+.home_logo{padding-bottom:10px;}
+.home_model{width:700px; left:-100px;}
+.video_right{width:480px;}
+.home_awards{margin-top:216px;}
+.model_home{width:500px; right:-165px; bottom:0px;}
+.meetme_btn, .fav_photos{width:460px;}
+.meetme_btn{padding-top:14px;}
+.fav_photos .clicktoseemore{float:left; clear:left; padding-top:10px;}
+.fav_videos{padding:22px 20px 20px;}
+.clicktoseemore a{font-size:16px;}
+.member_enjoy{width:100%; padding:20px; min-height:607px;}
+.member_enjoy ul{padding-top:16px;}
+.member_enjoy ul li{font-size:15px; float:none; width:100%; margin-right:0px;}
+.member_enjoy a.btn{font-size:28px; line-height:60px; margin-top:10px;}
+.tweet_model{display:none;}
+.videos_block{padding-top:15px;}
+
+/* Index */
+.warning_model{right:-359px; width:845px;; padding-top:1px}
+.warning_modelbg{left:415px; width:204px}
+.graybox{width:400px;}
+.warning_logo{padding-bottom:5px; padding-top:36px;}
+.warningbox{padding:30px 30px 20px;}
+a.enter_site{font-size:35px; line-height:30px; padding-top:15px; height:82px;}
+a.enter_site span{font-size:16px;}
+.warningbox p{margin:0px;}
+.leave_site{padding-top:16px; padding-bottom:15px;}
+
+.header_cams{display:block;}
+}
+
+@media only screen and (max-width:767px){
+.centerwrap{width:460px;}
+
+/* Cam */
+nav{margin-top:5px; margin-bottom:5px;}
+.logo{width:120px; padding-top:12px; padding-bottom:8px;}
+.banner_cam{background-size:620px;}
+.clicktome a{font-size:15px; line-height:30px; background-size:10px; padding-right:12px; background-position:10px center; padding-left:28px;}
+.titlebox h2{font-size:18px; background-size:30px; line-height:30px; padding-left:40px;}
+.cam_banner{padding-top:10px;}
+.cam_banner img{padding-bottom:10px;}
+.cam_banner p{font-size:14px; line-height:18px;}
+.whitebox{margin-bottom:12px;}
+.meetme a{font-size:36px; line-height:75px;}
+.meetme{padding-bottom:12px;}
+.warning_fmodel{display:none;}
+.mail_listarea{float:none; width:auto;}
+.email_subscribebox{margin-right:0px;}
+.subscribe{padding-left:48px;}
+.footer p.footer_links a{margin:0 10px;}
+.mail_list h3{font-size:18px;}
+.model_details img{width:100%;}
+.model_details{padding:0 10px; width:50%}
+.allmodels{margin:0 10px 20px;}
+.vna_network_pic{padding-top:20px;}
+.vna_members{margin-top:-35px;}
+.row_one .vna_member{margin-right:5px;}
+.row_two .vna_member{margin-right:4px;}	
+
+/* Join */
+.banner_join{background-size:600px;}
+.plan.two{margin-right:22px;}
+.join_model{width:100%; padding-bottom:15px;}
+.join_content{width:100%;}
+
+/* Bio */
+.banner_bio{background-size:550px;}
+.bio_model{display:none;}
+.bio{width:auto;}
+.bio .clicktome{padding-right:0px;}
+.bio_content{padding-right:0px;}
+.bio_content p{font-size:14px; letter-spacing:normal;}
+.funFacts{width:auto; padding:15px; margin-bottom:12px;}
+.bio_model_pics{display:none;}
+.funFacts p{width:auto;}
+.funFacts p span{padding-right:3px; width: 300px;}
+.funFacts p span.space{display:none;}
+.awards{left:auto; right:10px; top:452px;}
+
+/* Photos */
+.banner_photo{background-size:640px;}
+.modelpic{width:49%; margin-right:2%; margin-bottom:2%;}
+.modelpic:nth-child(2n){margin-right:0px;}
+.download_btn a{padding:5px 8px 5px 30px;}
+.modelpic h3{min-height:54px;}
+
+/* Members */
+.member{padding:12px;}
+.member_welcome p{font-size:14px; line-height:18px;}
+.discuss{width:100%; min-height:inherit; margin-right:0%; margin-left:0%; margin-bottom:12px;}
+.posts{width:100%; min-height:inherit; margin-right:0%; margin-left:0%; margin-bottom:0px; margin-top:0px;}
+.member_right{width:100%; margin-right:0%; margin-left:0%; min-height:inherit; margin-bottom:12px;}
+.discuss iframe, .posts iframe, .timezone_area iframe{height:500px; width:100%;}
+.twitter_block iframe{height:500px!important;}
+.timezone_area{min-height:inherit;}
+.member_footer p{padding-left:0px; background-position:center top; padding-top:45px; text-align:center;}
+.catPhoto{padding:0 3px; width:32%;}
+
+/* Videos */
+.banner_video{background-size:630px;}
+.videoarea h3{font-size:20px;}
+.date{font-size:15px;}
+.video_details h4{font-size:16px;}
+.video_download{width:152px;}
+.video_download a{line-height:28px; background-size:26px; font-size:18px; background-position:96% center; padding:5px 8px 5px 10px;}
+
+/* Updates */
+.updatesbox{padding:15px;}
+.updates{padding-bottom:0px;}
+.update_banner_model{left:90px; width:120px;}
+.banner_update{background-size:612px; background-position:center 0;}
+.updatebox{width:100%; min-height:inherit; margin-bottom:12px;}
+.update_twitter{width:100%; min-height:inherit;}
+.updatebox iframe, .update_twitter iframe{height:500px!important;}
+
+
+/* tour */
+.header_top{height:auto;}
+.nextshow{width:100%;}
+.counter{margin-right:-10px; margin-bottom:15px;}
+.tour_banner{background-size:664px;}
+.video_right{width:100%; float:none;}
+.become_member a{font-size:34px;}
+.home_model{display:none;}
+.home_awards{clear:both; float:none; margin:0px auto 15px;}
+.home_awards p{color:#4a4a4a; text-shadow:none; font-size:18px;}
+.clicktoseemore{float:left; clear:both; padding-top:10px;}
+.fav_video, .fav_video.last{width:49%;}
+.fav_video.last{margin-right:2%;}
+.fav_video:nth-child(2n){margin-right:0px;}
+.fav_videos{padding:12px 12px 20px;}
+.ago{padding-left:20px; font-size:13px;}
+.view{padding-left:21px; font-size:13px;}
+.fav_video a span{font-size:16px;}
+.meetme_btn, .fav_photos{width:auto;}
+.model_home{display:none;}
+.photos_block{padding-top:15px;}
+.fav_photo{width:49%; margin-right:2%; margin-bottom:2%;}
+.fav_photo.last{margin-right:2%;}
+.fav_photo:nth-child(2n){margin-right:0px;}
+.mytweet_block{width:100%; margin-bottom:12px; min-height:inherit; padding:12px;}
+.member_enjoy{width:100%; margin-bottom:25px; padding:12px; min-height:inherit;}
+.meetme_btn a{font-size:28px; line-height:60px;}
+.tweetbox iframe{width:100%; height:320px !important;}
+
+/* Index */
+.graybox{width:100%;}
+.adults_only{background:#666; padding:10px; margin-bottom:10px; margin-top:300px; border-radius:5px; -webkit-border-radius:5px;}
+.warning_model{right:0px; width:400px; top:339px;}
+.warning_modelbg{display:none;}
+.warningbox h4{font-size:15px;}
+}
+
+@media only screen and (max-width:479px){
+.centerwrap{width:300px;}
+
+/* Cam */
+.model_details{width:100%; padding:0 20px;}
+.timezone p{padding-bottom:5px;}
+.timezone select{margin-left:0px;}
+.vna_members{margin-top:-24px;}
+.vna_member img{height:104px;}
+.row_one .vna_member{margin-right:4px;}
+.row_two .vna_member{margin-right:3px;}
+nav{float:none;}
+.clickme{float:none; margin-bottom:10px; text-align:center;}
+.clickme a{font-size:18px;}
+.logo{width:50px;}
+.banner_cam{background-size:440px;}
+.clicktome{clear:both; float:left; margin-top:10px;}
+.cam_pic{width:49%;}
+.cam_pic.last{margin-right:2%;}
+.cam_pic:nth-child(2n){margin-right:0px;}
+.meetme a{font-size:26px; line-height:55px;}
+.mail_list h3{font-size:16px; padding-bottom:0px;}
+.email_subscribebox{width:100%;}
+.subscribe{padding-left:0px;}
+.footer p.footer_links a{margin:0 2px;}
+
+/* Join */
+.banner_join{background-size:420px;}
+.plan.one, .plan.two{margin-left:11px; margin-right:11px;}
+.join_content h3{font-size:18px; line-height:22px;}
+.btext h2{background-position:left center; line-height:normal;}
+
+/* Bio */
+.banner_bio{background-size:380px;}
+.awards{position:relative; left:auto; top:auto; width:100%; right:auto;}
+.awards p{padding-bottom:0px;}
+.bio_model{display:none;}
+.bio_content p:first-child{padding-right:50px;}
+.funFacts p span{padding-right:3px; width: 300px;}
+
+/* Photos */
+.banner_photo{background-size:450px;}
+.pagination li{display:none;}
+.pagination li.left_arrow, .pagination li.active, .pagination li.right_arrow{display:inline-block;}
+.modelpic{width:100%; margin-right:0px; margin-bottom:10px;}
+.download_btn a{padding:5px 8px 5px 60px;}
+.modelpic h3{min-height:inherit;}
+
+/* Members */
+.membernav .clickme a{background:none;}
+.membernav .clickme a i{float:none; display:block; margin:auto;}
+
+
+/* Videos */
+.banner_video{background-size:400px;}
+.updated_videos{margin:0px;}
+.video_pic{width:100%; margin-right:0px; margin-bottom:10px;}
+.date{float:left; clear:left; padding-bottom:3px;}
+.video_details{padding-top:0px;}
+
+/* Updates */
+.update_banner_model{left:62px; width:88px;}
+.banner_update{background-size:447px; background-position:64% 0;}
+
+/* tour */
+.counter{margin-right:0px; width:100%;}
+.tour_banner{background-size:180px;}
+.become_member a{font-size:22px; line-height:50px;}
+.home_awards{margin-top:0px;}
+.home_awards p{font-size:16px;}
+.fav_video{width:100%; margin-right:0px; margin-bottom:10px;}
+.fav_video.last{width:100%;}
+.meetme_btn a, .member_enjoy a.btn{font-size:22px; line-height:50px;}
+
+/* Index */
+.warning_model{width:300px; top:218px;; padding-top:1px}
+.warning_logo{padding-left:20px;padding-right:20px; padding-bottom:2px; padding-top:2px}
+.warningbox{padding:30px 15px 20px}
+.adults_only{margin-top:215px}
+a.enter_site{height:72px;font-size:28px;line-height:25px}
+.leave_site p{font-size:35px}
+.leave_site p span{font-size:20px}hr{margin:0 15px}
+.tagline{position:relative; padding-top:5px;}
+.tagline p{font-family:'latobold'; font-size:15px; letter-spacing:-0.025em;}
+.tagline p a{color:#0638F7;}
+.tagline p a:hover{color:#192329;}
+.tagline p span{text-transform:none; font-size:5px; letter-spacing:normal; display:block}}
+
+@media only screen and (max-width:767px){
+	.comodo{
+	    width: 71px;
+    margin: auto;
+}	
+.comodo_join{ float: none;
+    margin: auto;}
+.twothumbs_pic{width:100%; margin-right:0px; text-align:center;}
+.twothumbs_pic > img{display:inline-block;}
+.twothumbs_pic2{margin-right:0px; width:100%; text-align:center;}
+.twothumbs_pic2 > iframe{margin:auto;}    
+}
+@media only screen and (max-width:479px){
+.twothumbs_pic2{width:300px; margin-left:-26px;}
+.twothumbs_pic{width:270px; margin-left:-10px;}
+}
+
+@media only screen and (max-width:480px){
+    .warning_logo{width:40%;  margin: auto;}
+}
